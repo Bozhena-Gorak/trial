@@ -18,6 +18,15 @@ body {
     padding-bottom: 60px;
 }
 
+.main-page-text-container1 {
+    background: #FFFFFF;
+    border-radius: 40px;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+}
+
 .main-page-button {
     background: #FF6B0A;
     color: #FFFFFF;
